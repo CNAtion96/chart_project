@@ -1,0 +1,14 @@
+body {
+  background-color: brown;
+  background-image: url("https://www.transparenttextures.com/patterns/basketball.png");
+  color: white; }
+  body header {
+    text-align: center; }
+  body div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    direction: column; }
+    body div canvas {
+      background-color: rgba(165, 42, 42, 0.3);
+      color: white; }
